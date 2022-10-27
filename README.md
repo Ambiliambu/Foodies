@@ -1,1 +1,1 @@
-# Foodies : https://ambiliambu.github.io/ModifiedFoodies/
+# Foodies : https://ambiliambu.github.io/foodies/
